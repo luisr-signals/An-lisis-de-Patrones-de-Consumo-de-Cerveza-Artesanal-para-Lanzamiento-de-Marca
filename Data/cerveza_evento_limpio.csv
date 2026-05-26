@@ -1,0 +1,101 @@
+﻿Usuario_ID,Edad,Grupo_Edad,Genero,Ciudad,Consumo_mensual_original,Consumo_mensual_num,Consumo_rango,Consumo_valido,Tipo_Favorita,Conocimiento,Atraccion,Contexto,Preferencia,Marca,Descubierta_en,Comentario,Comentario_Razon,Segmento_evento
+1,22,18-25,Femenino,León,23,23.0,21-30,True,Lager,Alto,Diseño del empaque,Familia,Comercial,Minerva,Festival,Me gustó su sabor suave,"""Es más accesible""",Consumidor casual
+2,21,18-25,Masculino,León,15,15.0,11-20,True,IPA,Medio,Recomendación,Amigos,Artesanal,Cucapá,Redes sociales,La amargor es perfecto,"""Prefiero apoyar lo local""",Socializadores
+3,23,18-25,Femenino,León,30,30.0,21-30,True,Stout,Alto,Curiosidad,Familia,Artesanal,Calavera,Bar,"No suelo tomar, pero me gustó","""La artesanal es más auténtica""",Buscadores de experiencia
+4,20,18-25,Masculino,León,8,8.0,6-10,True,Pale Ale,Bajo,Precio,Pareja,Comercial,Sierra Nevada,Tienda,"Buen sabor, buena relación calidad-precio","""Fácil de encontrar""",Exploradores de entrada
+5,19,18-25,Masculino,León,14,14.0,11-20,True,IPA,Medio,Recomendación,Amigos,Artesanal,Fauna,Evento,Refrescante y frutal,"""Me gusta probar sabores nuevos""",Socializadores
+6,18,18-25,Femenino,León,20,20.0,11-20,True,Porter,Alto,Sabor,Solo,Artesanal importada,Insurgente,Amigo o familiar,Perfecta para clima frío,"""Disfruto descubrir cervezas exclusivas""",Catadores craft
+7,22,18-25,Masculino,León,5,5.0,0-5,True,Weiss,Bajo,Nombre,Compañeros,Comercial,Stone Brewing,Viaje,La probé por el nombre curioso,"""Es lo que sirven en el trabajo""",Exploradores de entrada
+8,21,18-25,Femenino,León,16,16.0,11-20,True,Amber,Medio,Diseño del empaque,Pareja,Artesanal,BrewDog,Revista especializada,El color me llamó la atención,"""Nos encanta visitar microcervecerías""",Consumidor casual
+9,23,18-25,Masculino,León,20,20.0,11-20,True,Sour,Alto,Curiosidad,Amigos,Artesanal importada,Principia,Festival,"Acidez equilibrada, excelente","""Siempre probamos novedades""",Socializadores
+10,20,18-25,Femenino,León,8,8.0,6-10,True,Lager,Bajo,Precio,Familia,Comercial,La Chouffe,Restaurante,Solo tomo en reuniones,"""Es lo que todos toman en casa""",Exploradores de entrada
+11,23,18-25,Masculino,León,24,24.0,21-30,True,IPA,Alto,Sabor,Solo,Artesanal,Rámuri,Bar,Soy fan de las IPAs intensas,"""Me gusta el proceso artesanal""",Catadores craft
+12,19,18-25,Masculino,León,10,10.0,6-10,True,Stout,Medio,Recomendación,Amigos,Comercial,Mikkeller,Tienda,Mejor de lo que esperaba,"""Es más barata para compartir""",Socializadores
+13,18,18-25,Femenino,León,5,5.0,0-5,True,Pale Ale,Bajo,Nombre,Pareja,Artesanal,Tierra Blanca,Evento,No recuerdo bien el sabor,"""Celebramos aniversarios con ellas""",Exploradores de entrada
+14,22,18-25,Femenino,León,6,6.0,6-10,True,Pilsner,Medio,Diseño del empaque,Compañeros,Comercial,Duvel,Redes sociales,Clásica y refrescante,"""Siempre hay en las fiestas""",Consumidor casual
+15,21,18-25,Masculino,León,20,20.0,11-20,True,Saison,Alto,Sabor,Familia,Artesanal,Santo Grial,Amigo o familiar,Notas especiadas únicas,"""Mi papá las elabora en casa""",Catadores craft
+16,20,18-25,Femenino,León,30,30.0,21-30,True,Double IPA,Alto,Recomendación,Solo,Artesanal importada,Lagunitas,Viaje,Ideal para expertos,"""Colecciono etiquetas internacionales""",Consumidor casual
+17,19,18-25,Masculino,León,30,30.0,21-30,True,Amber,Bajo,Precio,Amigos,Comercial,Cervecería Colima,Festival,No noto diferencia con comerciales,"""No nos fijamos en marcas""",Socializadores
+18,22,18-25,Femenino,León,20,20.0,11-20,True,Porter,Medio,Curiosidad,Pareja,Artesanal,Goose Island,Revista especializada,Me sorprendió su cuerpo cremoso,"""Nos gusta su sabor único""",Consumidor casual
+19,18,18-25,Masculino,León,20,20.0,11-20,True,Weiss,Medio,Diseño del empaque,Familia,Comercial,Paulaner,Restaurante,Sabores cítricos muy agradables,"""La compramos en el súper""",Consumidor casual
+20,23,18-25,Femenino,León,5,5.0,0-5,True,Sour,Bajo,Nombre,Compañeros,Artesanal,Punk IPA,Bar,Demasiado ácida para mí,"""Siempre llevamos algo diferente""",Exploradores de entrada
+21,21,18-25,Masculino,León,25,25.0,21-30,True,Lager,Medio,Precio,Amigos,Comercial,Minerva,Tienda,Buena opción económica,"""Es lo de siempre""",Socializadores
+22,22,18-25,Masculino,León,30,30.0,21-30,True,IPA,Alto,Sabor,Solo,Artesanal,Cucapá,Evento,Amargor justo como me gusta,"""Prefiero calidad sobre cantidad""",Catadores craft
+23,20,18-25,Femenino,León,20,20.0,11-20,True,Stout,Bajo,Recomendación,Pareja,Comercial,Calavera,Redes sociales,Muy fuerte para mi gusto,"""Es nuestra tradición""",Exploradores de entrada
+24,23,18-25,Masculino,León,30,30.0,21-30,True,Pale Ale,Alto,Diseño del empaque,Familia,Artesanal importada,Sierra Nevada,Amigo o familiar,Mi cerveza de todos los días,"""Solo para ocasiones especiales""",Consumidor casual
+25,19,18-25,Femenino,León,15,15.0,11-20,True,Amber,Medio,Curiosidad,Compañeros,Comercial,Fauna,Viaje,Color espectacular,"""La pedimos en el bar""",Consumidor casual
+26,21,18-25,Masculino,León,27,27.0,21-30,True,Porter,Alto,Sabor,Amigos,Artesanal,Insurgente,Festival,Como postre líquido,"""Hacemos catas los viernes""",Catadores craft
+27,22,18-25,Femenino,León,15,15.0,11-20,True,Weiss,Bajo,Nombre,Solo,Comercial,Stone Brewing,Revista especializada,Me encanta el diseño de la botella,"""No me complico""",Exploradores de entrada
+28,18,18-25,Masculino,León,20,20.0,11-20,True,Sour,Medio,Recomendación,Pareja,Artesanal,BrewDog,Restaurante,Mi nueva favorita,"""Nos encanta su variedad""",Consumidor casual
+29,23,18-25,Masculino,León,10,10.0,6-10,True,Lager,Bajo,Precio,Familia,Comercial,Principia,Bar,La más accesible,"""Es la favorita de mi abuelo""",Exploradores de entrada
+30,20,18-25,Femenino,León,30,30.0,21-30,True,Double IPA,Alto,Sabor,Compañeros,Artesanal importada,La Chouffe,Tienda,Para verdaderos amantes del lúpulo,"""Siempre probamos algo nuevo""",Catadores craft
+31,24,18-25,Masculino,San Francisco del Rincón,15,15.0,11-20,True,Pilsner,Medio,Diseño del empaque,Amigos,Comercial,Rámuri,Evento,Refrescante para el calor,"""La que todos conocen""",Socializadores
+32,25,18-25,Femenino,San Francisco del Rincón,20,20.0,11-20,True,Stout,Alto,Curiosidad,Solo,Artesanal,Mikkeller,Redes sociales,Como un café cremoso,"""Me gusta aprender de estilos""",Buscadores de experiencia
+33,26,26-35,Masculino,San Francisco del Rincón,20,20.0,11-20,True,Pale Ale,Bajo,Nombre,Pareja,Comercial,Tierra Blanca,Amigo o familiar,No volvería a comprarla,"""Es nuestra rutina""",Exploradores de entrada
+34,27,26-35,Femenino,San Francisco del Rincón,20,20.0,11-20,True,IPA,Medio,Recomendación,Familia,Artesanal,Duvel,Viaje,Perfecta para compartir,"""Apoyamos a productores locales""",Consumidor casual
+35,28,26-35,Masculino,San Francisco del Rincón,25,25.0,21-30,True,Amber,Alto,Diseño del empaque,Compañeros,Comercial,Santo Grial,Festival,Arte en una botella,"""Siempre en happy hours""",Consumidor casual
+36,29,26-35,Femenino,San Francisco del Rincón,15,15.0,11-20,True,Porter,Bajo,Precio,Amigos,Artesanal importada,Lagunitas,Revista especializada,Demasiado cara para lo que ofrece,"""Nos gusta lo exótico""",Socializadores
+37,30,26-35,Masculino,San Francisco del Rincón,15,15.0,11-20,True,Saison,Alto,Sabor,Solo,Comercial,Cervecería Colima,Restaurante,Complejidad increíble,"""Solo para relajarme""",Consumidor casual
+38,24,18-25,Femenino,San Francisco del Rincón,15,15.0,11-20,True,Weiss,Medio,Curiosidad,Pareja,Artesanal,Goose Island,Bar,Diferente a todo lo que probé,"""Es nuestro pequeño lujo""",Consumidor casual
+39,25,18-25,Masculino,San Francisco del Rincón,20,20.0,11-20,True,Lager,Medio,Recomendación,Familia,Comercial,Paulaner,Tienda,Siempre confiable,"""La compramos en bulk""",Consumidor casual
+40,26,26-35,Femenino,San Francisco del Rincón,25,25.0,21-30,True,Sour,Alto,Sabor,Compañeros,Artesanal,Punk IPA,Evento,Equilibrio perfecto entre dulce y ácido,"""Siempre sorprendemos al equipo""",Catadores craft
+41,27,26-35,Masculino,San Francisco del Rincón,32,32.0,31+,True,IPA,Alto,Sabor,Amigos,Artesanal,Minerva,Restaurante,Amargor cítrico perfecto,"""Cada viernes probamos una nueva microcervecería""",Catadores craft
+42,28,26-35,Femenino,San Francisco del Rincón,8,8.0,6-10,True,Lager,Bajo,Precio,Familia,Comercial,Cucapá,Tienda,La que siempre hay en casa,"""Es lo que siempre hay en las reuniones""",Exploradores de entrada
+43,29,26-35,Masculino,San Francisco del Rincón,30,30.0,21-30,True,Stout,Alto,Recomendación,Pareja,Artesanal importada,Calavera,Festival,Como un postre cervecero,"""Nos encanta coleccionar botellas europeas""",Consumidor casual
+44,30,26-35,Femenino,San Francisco del Rincón,12,12.0,11-20,True,Pilsner,Bajo,Diseño del empaque,Compañeros,Comercial,Sierra Nevada,Redes sociales,Bonita etiqueta,"""La opción segura para after office""",Exploradores de entrada
+45,24,18-25,Masculino,San Francisco del Rincón,30,30.0,21-30,True,Porter,Alto,Curiosidad,Solo,Artesanal,Fauna,Bar,Sabores a chocolate tostado,"""Mi momento de degustación personal""",Buscadores de experiencia
+46,25,18-25,Femenino,San Francisco del Rincón,15,15.0,11-20,True,Weiss,Medio,Nombre,Amigos,Comercial,Insurgente,Amigo o familiar,Nombre alemán auténtico,"""Para el futbol siempre es la clásica""",Socializadores
+47,26,26-35,Masculino,San Francisco del Rincón,10,10.0,6-10,True,Sour,Bajo,Recomendación,Familia,Artesanal,Stone Brewing,Viaje,No es para mí,"""Mi hijo cervecero nos inició en esto""",Exploradores de entrada
+48,27,26-35,Femenino,San Francisco del Rincón,35,35.0,31+,True,Double IPA,Alto,Sabor,Pareja,Comercial,BrewDog,Evento,Bomba de lúpulo,"""Nuestra cerveza de películas en casa""",Consumidor casual
+49,28,26-35,Masculino,San Francisco del Rincón,15,15.0,11-20,True,Amber,Medio,Diseño del empaque,Compañeros,Artesanal importada,Principia,Tienda,Color ámbar precioso,"""Hacemos catas en la oficina""",Consumidor casual
+50,29,26-35,Femenino,San Francisco del Rincón,10,10.0,6-10,True,Pale Ale,Bajo,Precio,Solo,Comercial,La Chouffe,Revista especializada,Está bien para su precio,"""No me complico la vida""",Exploradores de entrada
+51,18,18-25,Masculino,Purísima del Rincón,25,25.0,21-30,True,Saison,Alto,Curiosidad,Amigos,Artesanal,Rámuri,Festival,Notas picantes interesantes,"""El grupo de cerveceros artesanales""",Socializadores
+52,19,18-25,Femenino,Purísima del Rincón,20,20.0,11-20,True,Lager,Medio,Recomendación,Familia,Comercial,Mikkeller,Bar,La que me recomendó mi papá,"""Tradition familiar por generaciones""",Consumidor casual
+53,20,18-25,Masculino,Purísima del Rincón,30,30.0,21-30,True,IPA,Alto,Sabor,Pareja,Artesanal,Tierra Blanca,Redes sociales,Maravilloso aroma,"""Nuestras citas son en cervecerías boutique""",Catadores craft
+54,21,18-25,Femenino,Purísima del Rincón,10,10.0,6-10,True,Stout,Bajo,Nombre,Compañeros,Comercial,Duvel,Restaurante,Nombre intrigante,"""Happy hour corporativo""",Exploradores de entrada
+55,22,18-25,Masculino,Purísima del Rincón,18,18.0,11-20,True,Pilsner,Medio,Diseño del empaque,Solo,Artesanal importada,Santo Grial,Tienda,Diseño retro encantador,"""Mi hobby es probar rarezas belgas""",Consumidor casual
+56,23,18-25,Femenino,Purísima del Rincón,30,30.0,21-30,True,Porter,Alto,Sabor,Amigos,Comercial,Lagunitas,Amigo o familiar,Como café con crema,"""Para la carne asada de domingo""",Socializadores
+57,18,18-25,Masculino,Purísima del Rincón,10,10.0,6-10,True,Weiss,Bajo,Precio,Familia,Artesanal,Cervecería Colima,Festival,Cara para lo que ofrece,"""Visitar cervecerías es nuestro paseo familiar""",Exploradores de entrada
+58,19,18-25,Femenino,Purísima del Rincón,30,30.0,21-30,True,Sour,Alto,Curiosidad,Pareja,Comercial,Goose Island,Viaje,Acidez refrescante,"""La de siempre para cenar""",Buscadores de experiencia
+59,20,18-25,Masculino,Purísima del Rincón,20,20.0,11-20,True,Amber,Medio,Recomendación,Compañeros,Artesanal,Paulaner,Redes sociales,Buena para principiantes,"""Hacemos brewing tours con el equipo""",Consumidor casual
+60,21,18-25,Femenino,Purísima del Rincón,20,20.0,11-20,True,Pale Ale,Medio,Diseño del empaque,Solo,Comercial,Punk IPA,Revista especializada,Etiqueta artística,"""Solo tomo una ocasionalmente""",Consumidor casual
+61,24,18-25,Masculino,Silao,15,15.0,11-20,True,Double IPA,Bajo,Nombre,Amigos,Artesanal importada,Minerva,Bar,Demasiado intensa,"""Nuestro club de cervezas exóticas""",Socializadores
+62,25,18-25,Femenino,Silao,25,25.0,21-30,True,Lager,Alto,Sabor,Familia,Comercial,Cucapá,Restaurante,Pureza del estilo,"""La que compramos por caja""",Consumidor casual
+63,26,26-35,Masculino,Silao,20,20.0,11-20,True,IPA,Medio,Recomendación,Pareja,Artesanal,Calavera,Evento,Nueva favorita,"""Nuestro aniversario lo celebramos con IPA's""",Consumidor casual
+64,27,26-35,Femenino,Silao,30,30.0,21-30,True,Stout,Alto,Sabor,Compañeros,Comercial,Sierra Nevada,Amigo o familiar,Ideal para invierno,"""Para los cumpleaños de la oficina""",Consumidor casual
+65,28,26-35,Masculino,Silao,10,10.0,6-10,True,Pilsner,Bajo,Precio,Solo,Artesanal,Fauna,Festival,La más barata,"""Mi pequeño lujo personal""",Exploradores de entrada
+66,29,26-35,Femenino,Silao,15,15.0,11-20,True,Weiss,Medio,Curiosidad,Amigos,Comercial,Insurgente,Tienda,Sabores a banana,"""Para las pedas rápidas""",Socializadores
+67,30,26-35,Masculino,Silao,17,17.0,11-20,True,Porter,Alto,Recomendación,Familia,Artesanal importada,Stone Brewing,Redes sociales,De barril es mejor,"""Regalo favorito de mi esposo""",Consumidor casual
+68,24,18-25,Femenino,Silao,10,10.0,6-10,True,Sour,Bajo,Nombre,Pareja,Comercial,BrewDog,Viaje,Nombre divertido,"""Nuestra rutina de viernes""",Exploradores de entrada
+69,25,18-25,Masculino,Silao,18,18.0,11-20,True,Amber,Medio,Diseño del empaque,Compañeros,Artesanal,Principia,Revista especializada,Botella coleccionable,"""El jefe nos lleva a cervecerías""",Consumidor casual
+70,26,26-35,Femenino,Silao,10,10.0,6-10,True,Pale Ale,Bajo,Precio,Solo,Comercial,La Chouffe,Bar,Económica pero decente,"""Solo para relajarme ocasionalmente""",Exploradores de entrada
+71,27,26-35,Masculino,Silao,25,25.0,21-30,True,Saison,Alto,Sabor,Amigos,Artesanal,Rámuri,Tienda,Complejidad increíble,"""Club de degustación los sábados""",Catadores craft
+72,28,26-35,Femenino,Silao,20,20.0,11-20,True,Lager,Medio,Recomendación,Familia,Comercial,Mikkeller,Evento,Clásica nunca falla,"""La que mamá siempre compra""",Consumidor casual
+73,29,26-35,Masculino,Silao,30,30.0,21-30,True,IPA,Alto,Curiosidad,Pareja,Artesanal importada,Tierra Blanca,Festival,Nueva variedad de lúpulo,"""Nuestra meta: probar 100 cervezas""",Buscadores de experiencia
+74,30,26-35,Femenino,Silao,15,15.0,11-20,True,Stout,Bajo,Diseño del empaque,Compañeros,Comercial,Duvel,Restaurante,Diseño oscuro misterioso,"""Para los eventos corporativos""",Exploradores de entrada
+75,24,18-25,Masculino,Silao,20,20.0,11-20,True,Pilsner,Alto,Sabor,Solo,Artesanal,Santo Grial,Redes sociales,Refrescante perfecta,"""Mi terapia de fin de semana""",Catadores craft
+76,25,18-25,Femenino,Silao,20,20.0,11-20,True,Porter,Medio,Recomendación,Amigos,Comercial,Lagunitas,Festival,Para después de comer,"""Para las fiestas grandes""",Socializadores
+77,26,26-35,Masculino,Celaya,20,20.0,11-20,True,Weiss,Bajo,Nombre,Familia,Artesanal,Cervecería Colima,Viaje,Nombre difícil de pronunciar,"""El orgullo cervecero de papá""",Exploradores de entrada
+78,27,26-35,Femenino,Celaya,30,30.0,21-30,True,Double IPA,Alto,Sabor,Pareja,Comercial,Goose Island,Tienda,Intensa como me gusta,"""Nuestra cerveza de película""",Consumidor casual
+79,28,26-35,Masculino,Celaya,20,20.0,11-20,True,Amber,Medio,Diseño del empaque,Compañeros,Artesanal,Paulaner,Amigo o familiar,Arte en la etiqueta,"""Team building en cervecerías""",Consumidor casual
+80,29,26-35,Femenino,Celaya,30,30.0,21-30,True,Sour,Alto,Curiosidad,Solo,Comercial,Punk IPA,Restaurante,Fermentación salvaje,"""Ocasionalmente con pizza""",Buscadores de experiencia
+81,30,26-35,Masculino,Celaya,15,15.0,11-20,True,Pale Ale,Bajo,Precio,Amigos,Artesanal importada,Minerva,Redes sociales,Alternativa económica,"""Nuestro grupo de expertos""",Socializadores
+82,24,18-25,Femenino,Celaya,45935,,Dato no valido,False,Lager,Medio,Recomendación,Familia,Comercial,Cucapá,Festival,Siempre disponible,"""La económica para reuniones""",Consumidor casual
+83,25,18-25,Masculino,Celaya,45779,,Dato no valido,False,IPA,Alto,Sabor,Pareja,Artesanal,Calavera,Bar,Aroma a frutas tropicales,"""Nuestras vacaciones giran en torno a cervezas""",Catadores craft
+84,26,26-35,Femenino,Celaya,>10,,>10,False,Stout,Alto,Curiosidad,Compañeros,Comercial,Sierra Nevada,Tienda,Envejecida en bourbon,"""Para los clientes importantes""",Buscadores de experiencia
+85,27,26-35,Masculino,Celaya,45935,,Dato no valido,False,Pilsner,Medio,Diseño del empaque,Solo,Artesanal,Fauna,Viaje,Diseño minimalista,"""Mi ritual de viernes por la noche""",Consumidor casual
+86,28,26-35,Femenino,Celaya,45779,,Dato no valido,False,Weiss,Bajo,Nombre,Amigos,Comercial,Insurgente,Evento,Nombre femenino bonito,"""Para el partido importante""",Socializadores
+87,29,26-35,Masculino,Celaya,<2,,<2,False,Porter,Bajo,Precio,Familia,Artesanal,Stone Brewing,Revista especializada,No vale lo que cuesta,"""El negocio familiar de cerveza""",Exploradores de entrada
+88,30,26-35,Femenino,Celaya,45935,,Dato no valido,False,Sour,Alto,Sabor,Pareja,Comercial,BrewDog,Restaurante,Equilibrio perfecto,"""Nuestra cerveza de supermercado""",Consumidor casual
+89,36,36-50,Masculino,Guadalajara,45779,,Dato no valido,False,Amber,Medio,Recomendación,Compañeros,Artesanal importada,Principia,Amigo o familiar,Buena transición,"""Premio por metas alcanzadas""",Consumidor casual
+90,38,36-50,Femenino,Guadalajara,45689,,Dato no valido,False,Double IPA,Bajo,Nombre,Solo,Comercial,La Chouffe,Festival,Demasiado fuerte,"""Solo en ocasiones especiales""",Exploradores de entrada
+91,40,36-50,Masculino,Guadalajara,>10,,>10,False,Pale Ale,Alto,Sabor,Amigos,Artesanal,Rámuri,Redes sociales,Cuerpo perfecto,"""Nuestro tour cervecero mensual""",Catadores craft
+92,42,36-50,Femenino,Guadalajara,45935,,Dato no valido,False,Lager,Medio,Diseño del empaque,Familia,Comercial,Mikkeller,Viaje,Logo memorable,"""La de las comidas familiares""",Consumidor casual
+93,44,36-50,Masculino,Guadalajara,45779,,Dato no valido,False,IPA,Alto,Curiosidad,Pareja,Artesanal,Tierra Blanca,Revista especializada,Lúpulo experimental,"""Nuestro date en cervecerías nuevas""",Buscadores de experiencia
+94,46,36-50,Femenino,Guadalajara,<2,,<2,False,Stout,Bajo,Recomendación,Compañeros,Comercial,Duvel,Bar,No es mi estilo,"""Para aguantar la jornada""",Exploradores de entrada
+95,37,36-50,Masculino,Querétaro,45935,,Dato no valido,False,Pilsner,Alto,Sabor,Solo,Artesanal,Santo Grial,Restaurante,Limpia y crujiente,"""Mi momento de relajación""",Catadores craft
+96,39,36-50,Femenino,Querétaro,45779,,Dato no valido,False,Porter,Medio,Diseño del empaque,Amigos,Comercial,Lagunitas,Evento,Diseño vintage,"""Para las fiestas relámpago""",Socializadores
+97,41,36-50,Masculino,Querétaro,45689,,Dato no valido,False,Weiss,Bajo,Precio,Familia,Artesanal importada,Cervecería Colima,Tienda,Ocasionalmente,"""El regalo de navidad favorito""",Exploradores de entrada
+98,52,50+,Femenino,Estados Unidos,>10,,>10,False,Saison,Alto,Curiosidad,Pareja,Artesanal,Goose Island,Festival,Fermentación interesante,"""Nuestra cerveza de aniversario""",Buscadores de experiencia
+99,55,50+,Masculino,Estados Unidos,45935,,Dato no valido,False,Amber,Medio,Recomendación,Compañeros,Artesanal,Paulaner,Redes sociales,Para todo momento,"""El after office premium""",Consumidor casual
+100,58,50+,Femenino,Estados Unidos,45779,,Dato no valido,False,Lager,Bajo,Precio,Solo,Artesanal,Punk IPA,Bar,Mi cerveza segura,"""Mi dosis ocasional de relajo""",Exploradores de entrada
