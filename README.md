@@ -4,7 +4,7 @@
 
 ## Sobre el Proyecto
 
-Este proyecto es una simulación construida desde cero a partir de un dataset propio, generado durante el León Beer Fest 2023, el festival cervecero más importante del Bajío. Aunque no existía una empresa real detrás, diseñé un escenario hipotético en el que una marca emergente —**Monte Bravo Brewing Co.**— buscaba validar su entrada al mercado artesanal con base en datos de consumidores.
+Este proyecto es una simulación construida desde cero a partir de un dataset propio, generado durante el León Beer Fest 2023, el festival cervecero más importante del Bajío. Aunque no existía una empresa real detrás, diseñé un escenario hipotético en el que una marca emergente **Monte Bravo Brewing Co.**—buscaba validar su entrada al mercado artesanal con base en datos de consumidores.
 
 Desde la recolección hasta el análisis, asumí el rol de consultor de inteligencia de mercado, desarrollando estrategias de segmentación, pricing y posicionamiento como si estuviera asesorando a esta marca para un lanzamiento exitoso.
 
